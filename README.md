@@ -2,7 +2,7 @@
 
 <img width="499" src="https://tingbot-python.readthedocs.org/en/latest/_images/simulator-live.gif">
 
-> A simple clock app for [Tingbot](http://tingbot.com). Learn how we built this app using [this tutorial](http://tingbot-python.readthedocs.org/en/latest/gettingstarted.html#your-first-app-a-digital-clock).
+A simple clock app for [Tingbot](http://tingbot.com). Learn how we built this app using [this tutorial](http://tingbot-python.readthedocs.org/en/latest/gettingstarted.html#your-first-app-a-digital-clock).
 
 ## Usage
 
